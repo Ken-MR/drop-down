@@ -1,6 +1,6 @@
-.menu {
+.menus {
   height: 100%;
-  width: 800%;
+  width: 80%;
 
   display: flex;
   justify-content: space-around;
@@ -10,6 +10,7 @@
 .list {
   display: flex;
   justify-content: center;
+  height: 500px;
 }
 
 ul {
