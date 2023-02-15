@@ -1,0 +1,25 @@
+.menu {
+  height: 100%;
+  width: 800%;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: center;
+}
+
+.invisible-list > li {
+  display: none;
+}
